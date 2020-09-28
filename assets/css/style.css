@@ -7,7 +7,7 @@ body {
     border: 1px solid white;
     margin-top: 25px
 }
-.row{
+.photo-intro{
     margin-left: 50px;
     margin-right: 50px;
     margin-top: 25px;
@@ -32,19 +32,19 @@ body {
     color: lightgoldenrodyellow
 }
 
-/* Set the background color of body to tan */
+
 .form-row {
     background-color: orangered;
   }
   
-  /* On screens that are 992px or less, set the background color to blue */
+ 
   @media screen and (max-width: 992px) {
     .form-row {
       background-color: blue;
     }
   }
   
-  /* On screens that are 600px or less, set the background color to olive */
+  
   @media screen and (max-width: 600px) {
     .form-row {
       background-color: olive;

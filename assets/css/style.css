@@ -1,0 +1,26 @@
+body {
+    background-image:url("../images/background-image.jpg")
+}
+
+.container{
+    background-color: darkcyan;
+    border: 1px solid white;
+    margin-top: 25px
+}
+.row{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 25px;
+    display: inline-block;
+    font-size: large;
+}
+
+.socialmedia{
+    font-family: david libre;
+    font-style: italic;
+}
+
+.handles{
+    color: lightgrey;
+
+}
